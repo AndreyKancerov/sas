@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+
+}
+ header{
+    background-color:rgb(39, 39, 121) ; 
+}
+header img{
+    margin: 20px;
+}
+header b {
+    color: white ;
+}
+main h1{
+    color:rgb(184, 120, 37) ;
+}
+footer p{
+    background-color: chartreuse;
+}
+nav a{ 
+   text-decoration: none; 
+    color: gray;
+}
+.n{
+    background-color:rgb(153, 226, 80) ;
+    border-radius: 20px;
+}
+ p{
+    font-size:25px;
+ }
+ b{
+   font-size:25px;  
+ }
+ a{
+    font-size:25px;  
+  
